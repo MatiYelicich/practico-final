@@ -1,0 +1,5 @@
+Lista supermercado
+  Avena
+  Galletas
+  Leche
+  Manzana
